@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+ /* @type {import('tailwindcss').Config}
+module.exports = {
+ content: ["./src/.{js,jsx,ts,tsx}"],
+  /* theme: {
+    extend: {
+      colors: {
+        brand: {
+          pink: '#FF3366', // The exact pink from your design
+          soft: '#FFEAF1', // The soft pink light background
+        },
+        slate: {
+          850: '#1e293b', // A slightly darker charcoal grey for headings
+        }
+      },
+      borderRadius: {
+        '3xl': '1.5rem', // For the rounded cards
+        '4xl': '2rem',   // For the overall section or large inputs
+      },
+      fontFamily: {
+        sans: ['"Inter"', 'sans-serif'], // Or 'Plus Jakarta Sans' to match the reference
+      },
+    },
+  },
+  plugins: [],
+}  */
